@@ -233,11 +233,7 @@ So, then you have two options:
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Arbitrum/Optimism/Polygon/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
-
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/steiner254)
+[![Steiner254 Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/steiner254)
 
 
 
